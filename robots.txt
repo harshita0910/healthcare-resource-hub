@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshita0910.github.io/healthcare-resource-hub/sitemap.xml
